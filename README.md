@@ -16,3 +16,6 @@
 - [x] Place to enter last name
 - [x] Place to enter email address
 - [x] Checkbox that acknowledges permission to be added to the list
+
+## Screenshot 
+![Screenshot](screenshot.png)
